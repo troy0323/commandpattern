@@ -11,3 +11,6 @@ Develop a system where devices (e.g., TV, stereo, lights) can respond to these c
 Ensure that the remote control can send these commands to any device without knowing how each device works internally.
 
 Your challenge is to apply a design pattern that allows this remote control to be flexible and extensible, enabling it to control various devices effortlessly. This should be achieved without the remote control having to understand the specific details of how each device operates.
+
+## Class Diagram
+![image](https://github.com/JerryEsperanza/commandpattern/assets/142370600/803de011-db55-482b-8008-b0cf8c07bd1e)
