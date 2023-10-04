@@ -2,7 +2,7 @@
 
 Design a system that uses a special remote control to send commands to different devices. The key idea is to create a way for the remote control to control multiple devices without knowing the specifics of each device. Specifically:
 
-Create a remote control that can send commands like "Turn On" and "Turn Off."
+Create a remote control that can send commands like "Power On" and "Power Off."
 
 Implement separate commands for "Turn On" and "Turn Off."
 
